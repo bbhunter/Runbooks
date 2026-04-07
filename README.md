@@ -20,7 +20,7 @@ Resources to define, understand the execution, and goals of Red Teaming. These r
  * [Mitre Att&ck](https://attack.mitre.org) - Mitre
  * [NIST Glossary - Tactics, Techniques, and Procuedures](https://csrc.nist.gov/glossary/term/tactics_techniques_and_procedures) - NIST
  * [NIST Glossary - Tactic, Technique, and Procedure](https://csrc.nist.gov/glossary/term/tactic_technique_procedure) - NIST
- * [What’s in a name? TTPs in Info Sec](https://posts.specterops.io/whats-in-a-name-ttps-in-info-sec-14f24480ddcc) - Robby Winchester
+ * [What’s in a name? TTPs in Info Sec](https://specterops.io/blog/2017/09/27/whats-in-a-name-ttps-in-info-sec/) - Robby Winchester
  * [Red Team Guide - RED TEAM TRADECRAFT AND TTP GUIDANCE](https://redteam.guide/docs/Planning/red-team-tradecraft/) - Joe Vest and James Tubberville
 
 ## Execution
